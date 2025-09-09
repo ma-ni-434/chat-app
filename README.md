@@ -2,6 +2,7 @@
 # Chat App 💬
 
 A real-time chat application built using the **MERN Stack** (MongoDB, Express, React, Node.js) and **Socket.io** for instant messaging.
+
 https://chat-app-three-chi-17.vercel.app/
 
 ---
@@ -13,7 +14,7 @@ https://chat-app-three-chi-17.vercel.app/
 - 🧑‍🤝‍🧑 One-on-one & group chats
 - 📡 Online/offline user status
 - 📷 Media sharing (optional)
-- 🌐 Deployed on [your deployment platform]
+- 🌐 Deployed on Vercel (https://chat-app-three-chi-17.vercel.app/)
 
 ---
 
